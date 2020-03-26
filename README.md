@@ -2,4 +2,4 @@
 
 ## Web Programming
 
-- [Introduction to Responsive Web Design] (./topics/responsive-web.md)
+- [Introduction to Responsive Web Design](./topics/responsive-web.md)
